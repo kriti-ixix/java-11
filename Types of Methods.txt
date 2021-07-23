@@ -1,0 +1,9 @@
+Types of Methods:
+
+- On the basis of parameters (Input)
+    1. Default method -> No parameters
+    2. Parameterised method -> Some parameters
+
+- On the basis of return type (Output)
+    1. No return type -> Void return type
+    2. Some return type -> Getting some value
